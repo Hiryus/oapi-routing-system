@@ -1,0 +1,14 @@
+{
+  "name": "rpg-example",
+  "description": "Manage DnD characters (create, list, update and get).",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.1",
+    "oapi-routing-system": "file:../../",
+    "swagger-ui-express": "^4.4.0"
+  },
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "private": true
+}

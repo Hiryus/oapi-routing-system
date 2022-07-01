@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "swagger-ui-express": "^4.4.0",
+    "oapi-routing-system": "file:../../"
+  },
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "private": true
+}

@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "consistent-return": "off",
+    "import/no-named-as-default-member": "off",
+    "no-console": "off"
+  }
+}

@@ -1,0 +1,5 @@
+example/
+
+.gitlab-ci.yml
+.eslintrc.json
+.releaserc.json
